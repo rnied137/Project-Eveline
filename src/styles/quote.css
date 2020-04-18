@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,600);
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.quote-area {
+    height: 25vh;
+    width:80vw;
+	color: white;
+	font-size: 32px;
+	font-family: 'Josefin Sans', sans-serif;
+	background-size: cover;
+	position: relative;
+}
